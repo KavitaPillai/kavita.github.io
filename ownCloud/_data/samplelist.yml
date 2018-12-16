@@ -1,0 +1,18 @@
+docs_list_title: Quick start for ownCloud
+docs:
+
+- title: Before your begin
+  url: before-you-begin.html
+  
+- title: Installing ownCloud Enterprise Edition
+  url: installing-owncloud.html
+
+- title: Connecting to onwCloud server
+  url: connecting-to-owncloud.html
+
+- title: Creating a user
+  url: creating-user.html
+
+- title: Connecting to ownCloud using desktop or mobile
+  url: connecting-to-ownCloud-using-mobile-or-desktop-client.html
+  
